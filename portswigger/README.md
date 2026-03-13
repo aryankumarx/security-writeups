@@ -56,10 +56,18 @@ Each writeup follows a consistent format:
 7. **Mitigation** - How developers can fix it
 
 ## 🔗 Resources
-
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+ 
+### PortSwigger
+- [Web Security Academy](https://portswigger.net/web-security)
 - [SQL Injection Cheat Sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
-- [Burp Suite Documentation](https://portswigger.net/burp/documentation)
+- [XSS Cheat Sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- [Burp Suite Docs](https://portswigger.net/burp/documentation)
+ 
+### Security References
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [CWE Database](https://cwe.mitre.org/)
+- [HackerOne Hacktivity](https://hackerone.com/hacktivity)
 
 ## 🤝 Contributing
 
