@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Lab Writeups
 
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange)
-![Status](https://img.shields.io/badge/Labs%20Solved-2-brightgreen)
+![Status](https://img.shields.io/badge/Labs%20Solved-4-brightgreen)
 ![Category](https://img.shields.io/badge/Focus-SQL%20Injection-blue)
 
 ## 📖 About
@@ -28,9 +28,11 @@ I created this repository to:
 
 | Lab # | Lab Name | Difficulty | Status | Writeup |
 |-------|----------|------------|--------|---------|
-| 1 | SQL Injection - WHERE Clause Attack | Apprentice | ✅ Solved | [View](./lab-01-sqli-where-clause.md) |
+| 1 | SQL Injection - WHERE Clause Att       ack | Apprentice | ✅ Solved | [View](./lab-01-sqli-where-clause.md) |
 | 2 | SQL Injection - Login Bypass | Apprentice | ✅ Solved | [View](./lab-02-sqli-login-bypass.md) |
-| 3 | SQL Injection UNION Attack | Apprentice | 🔄 In Progress | Coming Soon |
+| 3 | SQL Injection UNION Attack | Practitioner | ✅ Solved | [View](.lab-03-sqli-union-column-count.md) |
+| 4 | SQL Injection UNION-TEXT-COLUMN | Practitioner | ✅ Solved | [View](./lab-04-sqli-union-text-column.md) |
+
 
 ### Other Categories
 *Coming soon as I progress through more labs...*
@@ -68,10 +70,9 @@ If you spot any errors or have suggestions for improvement, feel free to:
 
 ## 📊 Stats
 
-- **Total Labs Attempted:** 2
-- **Labs Solved:** 2
+- **Total Labs Attempted:** 4
+- **Labs Solved:** 4
 - **Current Focus:** SQL Injection
-- **Next Topic:** UNION-based SQL Injection
 
 ---
 
