@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Lab Writeups
 
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange)
-![Status](https://img.shields.io/badge/Labs%20Solved-9-brightgreen)
+![Status](https://img.shields.io/badge/Labs%20Solved-10-brightgreen)
 ![Category](https://img.shields.io/badge/Focus-SQL%20Injection-blue)
 
 ## 📖 About
@@ -22,8 +22,26 @@ I created this repository to:
 - Build a reference for common attack patterns
 - Practice technical writing and vulnerability reporting
 
+## 📂 Repository Structure
+
+```
+portswigger-writeups/
+│
+├── sql-injection/
+│   ├── lab-01-sqli-where-clause.md
+│   ├── lab-02-sqli-login-bypass.md
+│   ├── lab-03-sqli-union-column-count.md
+│   └── ...
+│
+├── xss/                        ← coming soon
+├── authentication/             ← coming soon
+├── overthewire/                ← coming soon
+│
+└── README.md
+```
+
 ### Other Categories
-*Coming soon as I progress through more labs...*
+*Coming soon as I progress through more labs...*   
 
 ## 🛠️ Tools Used
 
@@ -66,8 +84,8 @@ If you spot any errors or have suggestions for improvement, feel free to:
 
 ## 📊 Stats
 
-- **Total Labs Attempted:** 9
-- **Labs Solved:** 9
+- **Total Labs Attempted:** 10
+- **Labs Solved:** 10
 - **Current Focus:** SQL Injection
 
 ---
