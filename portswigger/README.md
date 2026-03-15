@@ -1,7 +1,7 @@
 # PortSwigger Web Security Academy - Lab Writeups
 
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange)
-![Status](https://img.shields.io/badge/Labs%20Solved-10-brightgreen)
+![Status](https://img.shields.io/badge/Labs%20Solved-11-brightgreen)
 ![Category](https://img.shields.io/badge/Focus-SQL%20Injection-blue)
 
 ## 📖 About
@@ -84,8 +84,8 @@ If you spot any errors or have suggestions for improvement, feel free to:
 
 ## 📊 Stats
 
-- **Total Labs Attempted:** 10
-- **Labs Solved:** 10
+- **Total Labs Attempted:** 11
+- **Labs Solved:** 11
 - **Current Focus:** SQL Injection
 
 ---
