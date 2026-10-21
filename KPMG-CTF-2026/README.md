@@ -10,6 +10,8 @@
 
 | Challenge | Category | Points | Writeup |
 |-----------|----------|--------|---------|
+| Welcome Challenge | Welcome | 5 | [welcome-challenge.md](welcome/welcome-challenge.md) |
+| First Flag | Welcome | 5 | [first-flag.md](welcome/first-flag.md) |
 | TrollClock | Web | 10 | [trollclock.md](web/trollclock.md) |
 | AcmeBank Assistant | AI/LLM | 10 | [acmebank-assistant.md](ai-llm/acmebank-assistant.md) |
 | SecureBot Support | AI/LLM | 10 | [securebot-support.md](ai-llm/securebot-support.md) |
@@ -24,7 +26,7 @@
 | VaultDocs - 1 | Infra | 10 | [vaultdocs.md](infra/vaultdocs.md) |
 | Healthy Hijack - 1 | Infra / OT | 10 | [healthy-hijack-1.md](infra/healthy-hijack-1.md) |
 
-> **Note:** Two early "welcome" flags (10 pts) were captured but exact steps weren't recorded — likely page-source inspection and `Ctrl+A` white-on-white text reveal.
+> **Note:** The two introductory "welcome" flags (10 pts) cover platform orientation (`Ctrl+A` white-on-white text reveal and DOM inspection).
 
 ---
 
