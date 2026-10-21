@@ -27,7 +27,7 @@ Full chain: `Binary → ASCII → Base64 → Hex → ASCII → Atbash → flag`
 `[REDACTED]`
 
 ### Proof
-![Onion — final Morse decode revealing the flag](../screenshots/onion-morse.png)
+Flag recovered via CLI/CyberChef pipeline (`Binary → ASCII → Base64 → Hex → ASCII → Atbash`). No platform screenshot retained.
 
 ### What I Learned
 - Never assume an unknown file is strongly encrypted — inspect it first. Binary groupings, Base64 character sets, and hex digit patterns are all visually recognizable and point directly to the next decoding step.
