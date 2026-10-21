@@ -30,6 +30,8 @@ TrollClock presented a client-side OTP verification flow backed by a WebSocket c
 `[REDACTED]`
 
 ### Proof
+![TrollClock — Application interface with OTP countdown timer](../screenshots/trollclock-page.png)
+
 ![TrollClock — WebSocket flag captured via browser DevTools console](../screenshots/trollclock-devtools.png)
 
 ### What I Learned
